@@ -60,7 +60,7 @@ cross_reactivity = {
 
 alternatives= {
     'Penicillin':['Azithromycin','Ciprofloxacin','Nitrofurantoin'],
-    'Sulphonamides':['Eryt            hromycin','Proguanil'],
+    'Sulphonamides':['Erythromycin','Proguanil'],
     'NSAIDs':['paracetamol','co_codamol','tramadol']
 }
 
